@@ -4,7 +4,7 @@
 
 Citizens of the European Union have a legal right to request a copy of the information and data about them that is held by organisations. For instance in Finland, this right is defined in [Henkilötietolaki](http://www.finlex.fi/fi/laki/ajantasa/1999/19990523)  (for explanation of right [see here](http://www.tietosuoja.fi/fi/index/useinkysyttya/tarkastusoikeusjatiedonkorjaaminen.html)).
 
-At present, few people exercise this right because the process of making personal data request can be complicated. One has to know how to craft the right text for the request, find contact details, manage correspondence, and do this without knowledge of previous experiences in dealing with particular organisations. A digital tool for making data requests can make them more accessible and usable for a wider range of purposes.
+In some European countries, access requests are established practice. The UK, for instance, sees around a million of them annually. Still, many people don't exercise this right because the process of making personal data request can be complicated. One has to know how to craft the right text for the request, find contact details, manage correspondence, and do this without knowledge of previous experiences in dealing with particular organisations. A digital tool for making data requests can make them more accessible and usable for a wider range of purposes.
 
 The type of data that can be accessed through requests include insurance and credit profiles, tax and medical records, list of transactions with companies, and the list of information used in bureacratic decisions  Making this information easier to reach for citizens can have a number of benefits. The service will help people ensure institutions have made decisions that affect them on the right grounds, answer to concerns about privacy, and make it easier for people to collect the documentation they need (for instance when applying for residence permits). Ultimately the service may also be part of an ecosystem of personal data management, in which individuals can manage and reuse data about themselves.
 
@@ -15,7 +15,9 @@ For the Finnish context the site will be run by Open Knowledge Finland ry. The p
 
 The first version of the service is being developed during the summer and autumn in 2016, and is user tested in Finland. The service is likely to be publicly available later in the year.
 
-The code for the service is published under open source license (MIT License), and is available at https://github.com/sakset/getyourdata.
+The test site is available at the address [http://okffi-dev1.kapsi.fi/en/](okffi-dev1.kapsi.fi/en/)
+
+The code for the service is published under open source license (MIT License), and is available at [https://github.com/sakset/getyourdata](https://github.com/sakset/getyourdata).
 
 
 ## Team
