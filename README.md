@@ -39,8 +39,6 @@ Open Knowledge Finland is a registered not-for-profit association and part of th
 
 Name: Anssi Mikola
 
-Organization: Open Knowledge Finland
-
 E-mail: anssi.mikola@gmail.com
 
 Telephone: +358 400 453612
@@ -49,8 +47,6 @@ Address: Caloniuksenkatu 9D,
 
 
 Name: Aleksi Knuutila
-
-Organization: Outlandish
 
 E-mail: aleksi.knuutila@iki.fi
 
