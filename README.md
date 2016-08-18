@@ -11,7 +11,7 @@ The type of data that can be accessed through requests include insurance and cre
 For the Finnish context the site will be run by Open Knowledge Finland ry. The project group has also participants in the United Kingdom and France that will run local versions of the project.
 
 
-### Status of the project
+## Status of the project
 
 The first version of the service is being developed during the summer and autumn in 2016, and is user tested in Finland. The service is likely to be publicly available later in the year.
 
